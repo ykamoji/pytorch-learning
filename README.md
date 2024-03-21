@@ -1,2 +1,2 @@
 # pytorch-learning
-Pytorch &amp; Lightnening excercises
+Pytorch &amp; Lightnening exercises
